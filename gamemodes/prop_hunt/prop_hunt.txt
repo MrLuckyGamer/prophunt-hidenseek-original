@@ -42,5 +42,14 @@
 			"type"		"CheckBox"
 			"default"	"1"
 		}
+
+		4
+        {
+            "name"      "PH_ROTATION_SUPPORT"
+            "text"      "Enable Rotation Lock"
+            "help"      "Allows props to lock their rotation with the reload key"
+            "type"      "CheckBox"
+            "default"   "1"
+        }
 	}
 }

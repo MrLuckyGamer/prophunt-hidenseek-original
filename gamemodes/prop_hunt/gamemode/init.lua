@@ -3,6 +3,7 @@ AddCSLuaFile("cl_init.lua")
 AddCSLuaFile("sh_config.lua")
 AddCSLuaFile("sh_init.lua")
 AddCSLuaFile("sh_player.lua")
+AddCSLuaFile("rotation_lock.lua")
 
 
 -- If there is a mapfile send it to the client (sometimes servers want to change settings for certain maps)
@@ -13,6 +14,7 @@ end
 
 -- Include the required lua files
 include("sh_init.lua")
+include("rotation_lock.lua")
 
 
 -- Server only constants
