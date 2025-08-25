@@ -15,10 +15,10 @@ IncludePlayerClasses()
 
 
 -- Information about the gamemode
-GM.Name		= "Prop Hunt"
-GM.Author	= "Kow@lski (Original by AMT)"
+GM.Name		= "Prop Hunt (Hide'n'Seek)"
+GM.Author	= "Kowalski Dragon (kowalski7cc) - Original by AMT"
 GM.Email	= "kowalski.7cc@xspacesoft.com"
-GM.Website	= "http://xspacesoft.github.io/PropHunt/"
+GM.Website	= "https://github.com/kowalski7cc/prophunt-hidenseek-original"
 
 -- Help info
 GM.Help = [[Prop Hunt is a twist on the classic backyard game Hide and Seek.
