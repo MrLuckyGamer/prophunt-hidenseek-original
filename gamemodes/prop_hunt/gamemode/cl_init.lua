@@ -1,4 +1,5 @@
 include("sh_init.lua")
+include("rotation_lock.lua")
 
 -- Decides where  the player view should be (forces third person for props)
 function GM:CalcView(pl, origin, angles, fov)

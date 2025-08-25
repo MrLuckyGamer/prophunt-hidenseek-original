@@ -36,7 +36,10 @@ A: Just press 'F2'
 Q: How can I taunt? <-- MUST TRY! 
 A: Just press 'F3' when in prop mode. 
 
-Q: I don't know ho this works! 
+Q: How do i lock where my prop is facing?
+A: Just press 'R' when looking at the direction you like when in prop mode. 
+
+Q: I don't know how this works! 
 A: Check out the discussion "Help for Newer Players." by "☾ ILikeStargates ٣٩٤#" 
 
 Q: There are error symbols and purple-black checkerboard .-. 
@@ -55,16 +58,16 @@ Just fill this form: {COLLEGAMENTO RIMOSSO} - If you can, please give a log.
 ## WANT TO CONTRIBUTE? ##
 Help us to find to fix all bugs! 
 Fork our Git repo: 
-https://bitbucket.org/xspacesoft/prophunt-hidenseek-original
+https://github.com/kowalski7cc/prophunt-hidenseek-original
 
 ## CREDITS: ##
-Credit goes for the original authors of both gamemodes and who made Prop Hunt compatible with GMOD 13. 
-Originally written and released by Darkimmortal (TF2) 
-Originally ported to GMod: AMT 
-Fixed for GMod 13: Leleudk 
-Enhanced an published: Me
+Credit goes to the original authors of the gamemodes and those who made Prop Hunt compatible with GMOD 13.
+Originally written and released by Darkimmortal on Team Fortress 2 (TF2)
+Originally ported to GMod: AMT
+First fix for GMod 13: LeleuDK
+Enhanced, fixed, and published: Kowalski7cc
 Various Contributors:
-- MrLuckyGamer 
+- MrLuckyGamer (FRETTA fix & Rotation Lock)
 Thanks also who help answering people on the page :D 
 
 If you are the author or if you have credit, and you don’t to see this mod on the Workshop anymore... just contact me 
